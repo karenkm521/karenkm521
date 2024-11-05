@@ -2,7 +2,7 @@
 # Hola, soy Karen Martínez Florentino 👋
 
 - 💻 **Programadora Front-End Junior** de México
-- 🎨 Con conocimientos en **UX**
+- 🎨 Con conocimientos en **Diseño UX**
 - 🤖 Apasionada por la **inteligencia artificial**
 - 🚀 Enfocada en crear **interfaces atractivas y funcionales**
 
